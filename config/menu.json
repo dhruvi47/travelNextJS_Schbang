@@ -1,0 +1,73 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "#"
+    },
+    {
+      "name": "Dsicover",
+      "url": "#"
+    },
+    {
+      "name": "Special Deals",
+      "url": "#"
+    },
+    {
+      "name": "Contact",
+      "url": "#"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+        {
+          "text": "Career",
+          "url": "#"
+        },
+        {
+          "text": "About",
+          "url": "#"
+        },
+       { 
+        "text": "Mobile",
+        "url": "#"
+      }
+      ]
+    },
+    {
+      "name": "Contact",
+      "menu": [
+        {
+          "text": "Why Travalog?",
+          "url": "#"
+        },
+        {
+          "text": "Partner with us",
+          "url": "#"
+        },
+        {
+          "text": "Blog",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Meet Us",
+      "menu": [
+        {
+          "text": "0 922 471 1242",
+          "url": "#"
+        },
+        {
+          "text": "info@travelog.com",
+          "url": "#"
+        },
+        {
+          "text": "Address lololololmao",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}
